@@ -10,5 +10,18 @@
     "username":"Falah",
     "password":"ahmad"
     }
+  ],
+  "news":[
+    {
+    "image":"https://picsum.photos/id/166/1200/800",
+    "judul":"Turtle project rescues 2,000 turtle eggs",
+    "isi":"June was a busy month for turtles, and perhaps an even busier month for conservation technicians working around the clock to preserve delicate turtle eggs.\n" +
+                "
+    },
+    {
+    "image":"https://picsum.photos/id/166/1200/801",
+    "judul":"Arctic sea ice extent just hit a record low for early June; worse may come",
+    "isi":"On Monday, June 10, following a tumultuous May that saw massive floods and tornadoes rip through the US Midwest, heatwaves in the Southeast, and snow in the Rockies, 2019 claimed another climate crisis victim — sea ice."
+    },
   ]
  }
